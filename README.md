@@ -16,8 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=MustafaPaigeer&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am Mustafa and I love coding
 </h1>
 </div>
 
