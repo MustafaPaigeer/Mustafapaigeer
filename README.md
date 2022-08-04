@@ -18,7 +18,7 @@
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I am Mustafa and I love coding
+  I am Mustafa
 </h1>
 </div>
 
@@ -29,11 +29,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada. I love learning new things and challenging myself.
 
-- :telescope: I’m working as a freelance Software developer and also doing my personal passion projects.
+- :telescope: I’m currently working on a few personal passion projects and I have a few more in waitlist.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing, reading tech articles, solving coding problems on code Wars.
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- :zap: In my free time, coding, cooking, hiking, biking and more... I also love nature...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MustafaPaigeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafapaigeer)
 
