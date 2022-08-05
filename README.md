@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada. I love learning new things and challenging myself.
 
-- :telescope: I’m currently working on a few personal passion projects and I have a few more in waitlist.
+- :telescope: I’m currently working on a few personal passion projects and I have a few more projects on my waitlist.
 
 - :seedling: Exploring Technical Content Writing, reading tech articles, solving coding problems on code Wars.
 
