@@ -31,9 +31,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m currently working on a few personal passion projects and I have a few more projects on my waitlist.
 
-- :seedling: Exploring Technical Content Writing, reading tech articles, solving coding problems on code Wars.
+- :seedling: I am very curious and I am learning all the time, I would like to read tech articles, I solve coding problems on code Wars.
 
-- :zap: In my free time, coding, cooking, hiking, biking and more... I also love nature...
+- :zap: In my free time, I am coding, gaming, cooking, hiking, biking, running and more... nature lover...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MustafaPaigeer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafapaigeer)
 
